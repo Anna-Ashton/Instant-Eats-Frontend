@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Instant-Eats-Frontend/static/css/main.65e47263.css",
+    "main.js": "/Instant-Eats-Frontend/static/js/main.17fc9ffc.js",
+    "index.html": "/Instant-Eats-Frontend/index.html",
+    "main.65e47263.css.map": "/Instant-Eats-Frontend/static/css/main.65e47263.css.map",
+    "main.17fc9ffc.js.map": "/Instant-Eats-Frontend/static/js/main.17fc9ffc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65e47263.css",
+    "static/js/main.17fc9ffc.js"
+  ]
+}
